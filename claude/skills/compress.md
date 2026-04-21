@@ -127,7 +127,7 @@ Response style: be precise, structured, and conservative. Prefer practical clari
 [number]
 
 **Fit Status**
-[Fits / Does Not Fit / Near Fit]
+[Fits / Does Not Fit / Near Fit / Cannot Safely Compress]
 
 **Short Drift Note**
 [brief note]
